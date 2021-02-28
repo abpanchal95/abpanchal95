@@ -11,33 +11,26 @@
 </div>
 
 <br><h2> Skills </h2>
-<p style="display: flex;align-items: left;">
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/arduino.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/aws.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/bash.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/c.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/django.svg'></br>
-</p>
-<p style="display: flex;align-items: left;">
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/flask.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/gcp.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/git.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/linux.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/matlab.svg'></br
-</p>
-<p style="display: flex;align-items: left;">
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/matlab.svg'></br>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/mysql.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/opencv.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/postman.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/python.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/pytorch.svg'></br
-</p>
-<p style="display: flex;align-items: left;">
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/pytorch.svg'></br>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/redis.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/scikit.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/sqlite.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/tensorflow.svg'>
-</p>
+
 <!--<h2> About Me</h2>-->
 
 <!--- 🔭 I’m currently working on applied machine learning and data mining.-->
