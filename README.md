@@ -1,16 +1,59 @@
-### Hi there 👋
 
-<!--
-**abpanchal95/abpanchal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World <img src = "https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/wave.gif" width = 50px>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abpanchal95.abpanchal95)
 
-Here are some ideas to get you started:
+<div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile :smile: 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/handshake.gif' width="64px"> </h2>
+<a href = 'https://www.linkedin.com/in/abhi-panchal'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/linked-in-alt.svg"/></a> 
+<a href = 'https://abhi2020.medium.com/'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/medium.svg"/></a> 
+<a href = 'https://www.github.com/abpanchal95'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/github.svg"/></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<h2> Skills </h2>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/arduino.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/aws.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/bash.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/c.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/django.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/flask.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/gcp.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/git.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/linux.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/matlab.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/mysql.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/opencv.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/postman.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/python.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/pytorch.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/redis.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/scikit.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/sqlite.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/tensorflow.svg'>
+
+<h2> About Me</h2>
+
+- 🔭 I’m currently working on applied machine learning and data mining.
+
+- 🌱 I’m currently learning machine learning and deep learning.
+
+- 👯 I’m looking to collaborate on research related in the field of applied machine learning.
+
+- 💬 Talk to me about research in ML, applied ML, deep learning applications.
+
+## Stuff I worked on last week⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+</a>
+
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abpanchal95&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpanchal95&layout=compact" />
+</a>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
