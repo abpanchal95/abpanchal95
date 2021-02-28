@@ -2,11 +2,11 @@
 # Hello World <img src = "https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/wave.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abpanchal95.abpanchal95)
 
-<div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/handshake.gif' width="64px">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/handshake.gif' width="64px"> </h2>
 <a href = 'https://www.linkedin.com/in/abhi-panchal'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/linked-in-alt.svg"/></a> 
 <a href = 'https://abhi2020.medium.com/'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/medium.svg"/></a> 
-<a href = 'https://www.github.com/abpanchal95'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/github.svg"/></a> 
+<a href = 'https://www.github.com/abpanchal95'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/github.svg"/></a>
 
 </div>
 
@@ -37,22 +37,18 @@
 
 - 🌱 I’m currently learning machine learning and deep learning.
 
-- 👯 I’m looking to collaborate on research related in the field of applied machine learning.
+- 👯 I’m looking to collaborate in research related to applied machine learning.
 
 - 💬 Talk to me about research in ML, applied ML, deep learning applications.
 
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
 
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abpanchal95&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpanchal95&layout=compact" />
-</a>
+<!--## My GitHub Stats 📊-->
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=abpanchal95&count_private=true&show_icons=true&theme=radical" />-->
+<!--</a>-->
+<!--<a href="https://github.com/anuraghazra/convoychat">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abpanchal95&layout=compact" />-->
+<!--</a>-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
