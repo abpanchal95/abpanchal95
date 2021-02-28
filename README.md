@@ -1,5 +1,5 @@
 
-# Hello There <img src = "https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/wave.gif" width = 50px>
+# Hello <img src = "https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/wave.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abpanchal95.abpanchal95)
 
 <div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile. <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/smily.gif' width="22px">
