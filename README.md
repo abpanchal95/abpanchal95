@@ -2,7 +2,7 @@
 # Hello World <img src = "https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/wave.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abpanchal95.abpanchal95)
 
-<div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/handshake.gif' width="64px">
+<div size='20px'> Hi! My name is Abhi Panchal. Thank You for taking the time to view my GitHub Profile <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/smily.gif' width="64px">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/handshake.gif' width="64px"> </h2>
 <a href = 'https://www.linkedin.com/in/abhi-panchal'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/linked-in-alt.svg"/></a> 
 <a href = 'https://abhi2020.medium.com/'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/abpanchal95/abpanchal95/main/medium.svg"/></a> 
@@ -38,8 +38,6 @@
 - 🌱 I’m currently learning machine learning and deep learning.
 
 - 👯 I’m looking to collaborate in research related to applied machine learning.
-
-- 💬 Talk to me about research in ML, applied ML, deep learning applications.
 
 
 <!--## My GitHub Stats 📊-->
